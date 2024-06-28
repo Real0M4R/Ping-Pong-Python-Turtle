@@ -1,2 +1,4 @@
 # Ping-Pong-Python-Turtle
-Python Turtle Graphics: Ping Pong. Controls on Readme file
+Right Board: W, S
+Left Board: Up arrow, Down arrow
+By @Real0M4R
